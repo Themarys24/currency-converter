@@ -3,6 +3,8 @@
 A simple currency converter in Java, with API integration [ExchangeRate-API] (https://www.exchangerate-api.com/) to fetch real-time exchange rates.  
 This project is a practical exercise in API consumption, JSON manipulation, and flow control with `switch-case`.
 
+---
+
 ## 🚀 Features
 
 *Conversion between the following currencies:
@@ -21,6 +23,8 @@ This project is a practical exercise in API consumption, JSON manipulation, and 
 
 --Text-based interface in the terminal
 
+---
+
 🧰 Technologies Used
 
 ##Java 17+
@@ -30,6 +34,8 @@ This project is a practical exercise in API consumption, JSON manipulation, and 
 -org.json library for handling JSON data
 
 -Git for version control
+
+---
 
 ##📦 How to Run the Project
 
