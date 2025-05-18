@@ -1,6 +1,6 @@
 # 💱 Currency Converter
 
-A simple currency converter in Java, with API integration [ExchangeRate-API] (https://www.exchangerate-api.com/) to fetch real-time exchange rates. 
+A simple currency converter in Java, with API integration [ExchangeRate-API] (https://www.exchangerate-api.com/) to fetch real-time exchange rates.  
 This project is a practical exercise in API consumption, JSON manipulation, and flow control with `switch-case`.
 
 ## 🚀 Features
